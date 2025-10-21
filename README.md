@@ -15,7 +15,7 @@ Discover the talented team members who bring our society to life
 ---
 
 ## **Romana Zaman**  
-**Role:** Social Media Manager  
+**Role:** Social Media part
 **Purpose:** Enhance and manage the society’s presence on platforms like Facebook, Instagram, and LinkedIn.  
 **Responsibilities:**  
 - Post updates about events, meetings, and achievements  
