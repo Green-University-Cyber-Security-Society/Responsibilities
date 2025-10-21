@@ -46,3 +46,16 @@ Discover the talented team members who bring our society to life.
 - Write and maintain README and contribution guidelines  
 - Oversee project versioning and issue tracking  
 
+---
+
+## **Fahim Hasan**  
+**Role:** Email Media  
+**Purpose:** Manage all email communications.  
+**Responsibilities:**  
+- Handle incoming and outgoing society emails  
+- Create and manage mailing lists or newsletters  
+- Maintain an organized email archive  
+- Ensure all communications follow the society’s tone and policy  
+- Notify members about upcoming meetings, deadlines, and events via email or official communication channels  
+
+
