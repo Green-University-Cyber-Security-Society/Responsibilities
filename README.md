@@ -1,10 +1,10 @@
 #  Meet the Creative Force Behind Our Society
 
-Discover the talented team members who bring our society to life 
+Discover the talented team members who bring our society to life.
 
 ---
 
-## **Rezanur Rahman Anan**  
+## **Rezanur Rahman Anan** </br> **Md. Tarikul Islam Tuhen**  
 **Role:** Visual Designer  
 **Responsibilities:**  
 - Create posters, banners, and event covers  
@@ -33,4 +33,16 @@ Discover the talented team members who bring our society to life
 - Create and maintain official slide templates (PowerPoint, Google Slides, etc.)  
 - Manage a shared repository for storing and organizing slide decks  
 - Ensure all slides follow consistent design, font, and branding guidelines  
-- Prepare and finalize slides for lectures or sessions using content from speakers or instructors  
+- Prepare and finalize slides for lectures or sessions using content from speakers or instructors
+
+---
+
+## **Akhi Alamgir**  
+**Role:** GitHub Organization  
+**Purpose:** Maintain the society’s GitHub organization and technical repositories.  
+**Responsibilities:**  
+- Create and organize repositories  
+- Manage member permissions and access  
+- Write and maintain README and contribution guidelines  
+- Oversee project versioning and issue tracking  
+
