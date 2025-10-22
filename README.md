@@ -37,7 +37,7 @@ Discover the passionate and talented individuals who power our society — creat
 
 ---
 
-## 💻 **Akhi Alamgir**  
+## 💻 **Akhi Alamgir**  <br> **Gulshan Ara Riya**
 **Role:** GitHub Organization 
 **Purpose:** Maintain the society’s GitHub organization and technical repositories.  
 **Responsibilities:**  
